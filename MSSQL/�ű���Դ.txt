@@ -1,0 +1,29 @@
+脚本										来源
+执行sql次数和逻辑次数							未知
+前 20 个在读取 IO 方面开销最大的查询					未知
+得出查询速度									未知
+
+数据库设计_返回最经常运行的条语句						http://www.cnblogs.com/cnsym/p/3227766.html
+数据库设计_返回最经常被修改的个索引					http://www.cnblogs.com/cnsym/p/3227766.html
+数据库设计_返回做IO数目最多的条语句及它们的执行计划			http://www.cnblogs.com/cnsym/p/3227766.html
+CPU_计算signal wait占整wait时间百分比					http://www.cnblogs.com/cnsym/p/3227766.html
+CPU_执行计划重用率								http://www.cnblogs.com/cnsym/p/3227766.html
+CPU_计算'Cxpacket'占整wait时间的百分比					http://www.cnblogs.com/cnsym/p/3227766.html
+阻塞_查询当前数据库上所有用户表格在Row Lock上发生阻塞的频率		http://www.cnblogs.com/cnsym/p/3227766.html
+
+监控_查询所有的DMV_DMF							http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控CPU瓶颈_当前缓存的哪些批处理或过程占用了大部分CPU资源		http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控CPU瓶颈_显示缓存计划所占用的CPU总使用率_带SQL文本		http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控CPU瓶颈_显示CPU平均占用率最高的前50个SQL语句			http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控CPU瓶颈_找出过多编译_重新编译的DMV				http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控CPU瓶颈_显示已重新编译的前25个存储过程				http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控CPU瓶颈_显示哪个查询占用了最多的CPU累计使用率			http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控CPU瓶颈_显示一些可能占用大量CPU使用率的运算符			http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控CPU瓶颈_显示已重新编译的前25个存储过程_New			http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控内存瓶颈_查看CPU_计划程序内存和缓冲池信息				http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控IO瓶颈_查找 IO闩锁等待统计信息					http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控IO瓶颈_查找当前挂起的IO请求						http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控IO瓶颈_查找哪些批处理_请求生成的IO最多				http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控阻塞_查询可确定阻塞的会话						http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控阻塞_显示SQL等待分析和前10个等待的资源				http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
+监控阻塞_出哪个spid 正在阻塞另一个spid					http://www.cnblogs.com/jiguixin/archive/2011/01/05/1926235.html
